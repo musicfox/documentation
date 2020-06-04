@@ -1,8 +1,8 @@
 ---
-description: Startup in five minutes or less.
+description: 'Startup for Musicfox employees in five minutes, or less.'
 ---
 
-# Quick Start
+# Management App Quick Start
 
 ## Get help when you need it
 
