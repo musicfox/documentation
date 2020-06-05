@@ -1,5 +1,5 @@
 ---
-description: 'Startup for Musicfox employees in five minutes, or less.'
+description: 'Quick start for Musicfox employees in five minutes, or less.'
 ---
 
 # Management App
