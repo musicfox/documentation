@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Management App Quick Start](README.md)
-* [Features](features.md)
-* [User Management](user-management.md)
+* [Management App](README.md)
+* [Fan.Booster](fan.booster.md)
+* [The Musicfox Platform](the-musicfox-platform.md)
 
