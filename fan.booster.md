@@ -4,12 +4,6 @@ description: Musicfox's turnkey fan acquisition engine.
 
 # Fan.Booster
 
-### Table of contents:
-
-1. [Overview](https://docs.musicfox.io/#overview)
-2. [Campaign Page Layout](http://fan.booster.musicfox.io/#campaign-page-layout)
-3. [User Management](http://fan.booster.musicfox.io/#fb-user-management)
-
 ### Overview
 
 Fan.Booster is Musicfox's solution to transform passive viewers and listeners into loyal and marketable followers. Musicfox applies proprietary algorithms to dynamically allocate funds across platforms in real-time, thus creating a bespoke way to optimize and prioritize follower acquisition ad spend like never before.

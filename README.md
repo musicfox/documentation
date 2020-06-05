@@ -4,12 +4,6 @@ description: 'Quick start for Musicfox employees in five minutes, or less.'
 
 # Management App
 
-### Table of contents:
-
-1. [Quick Start](https://docs.musicfox.io/#quick-start)
-2. [Features](https://docs.musicfox.io/#management-app-features)
-3. [User Management](https://docs.musicfox.io/#user-management)
-
 ## Quick Start
 
 ### Get help when you need it
