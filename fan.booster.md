@@ -38,7 +38,7 @@ The portal page will be updated periodically with new data, campaign tentpoles, 
 
 #### \#3 Reporting 
 
-Data science and artist valuation is at the core of what Musicfox does. Each campaign has a dedicated reporting page. 
+Data science and artist valuation is at the core of what Musicfox does. Each campaign has a dedicated reporting app. 
 
 {% hint style="info" %}
 This page will be published at the end of each campaign cycle and can be shared via secret link.
