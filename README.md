@@ -1,5 +1,5 @@
 ---
-description: Musicfox documentation sites.
+description: Musicfox documentation.
 ---
 
 # Overview
