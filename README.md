@@ -6,9 +6,9 @@ description: Musicfox documentation sites.
 
 ![](.gitbook/assets/logo-default-dark.png)
 
-## Getting Help
+### Getting Help
 
-Getting help like a rockstar is a fairly straight forward process--just click the appropriate help link the the sidebar or navbar. 
+Getting VIP assistance at Musicfox, like a rockstar, is a fairly straight forward process--just click the appropriate help link the the sidebar or navbar. 
 
 #### We'll use info cards to point important things out:
 
