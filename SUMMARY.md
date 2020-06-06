@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Management App](README.md)
+* [Overview](README.md)
 * [Fan.Booster](fan.booster.md)
 * [Management Application](management.md)
-* [The Musicfox Platform](the-musicfox-platform.md)
+* [Musicfox Platform](musicfox-platform.md)
 

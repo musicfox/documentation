@@ -2,7 +2,7 @@
 description: Musicfox's core product.
 ---
 
-# The Musicfox Platform
+# Musicfox Platform
 
 ![](.gitbook/assets/logo-platform-default-black-copy.png)
 
