@@ -4,6 +4,8 @@ description: Musicfox documentation sites.
 
 # Overview
 
+![](.gitbook/assets/logo-default-dark.png)
+
 ## Getting Help
 
 Getting help like a rockstar is a fairly straight forward process--just click the appropriate help link the the sidebar or navbar. 
