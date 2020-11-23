@@ -11,7 +11,7 @@ Getting VIP assistance at Musicfox, like a rockstar, is a fairly straight forwar
 #### We'll use info cards to point important things out:
 
 {% hint style="danger" %}
- [**Fan.Booster**](fan.booster.md) docs can help you understand your campaign, its features, and new ways to use **Fan.Booster** apps.
+[**Fan.Booster**](fan.booster.md) docs can help you understand your campaign, its features, and new ways to use **Fan.Booster** apps.
 {% endhint %}
 
 {% hint style="warning" %}
