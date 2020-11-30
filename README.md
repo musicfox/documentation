@@ -15,7 +15,7 @@ Getting VIP assistance at Musicfox, like a rockstar, is a fairly straight forwar
 {% endhint %}
 
 {% hint style="warning" %}
-The [**Management App**](management.md) ****docs help Musicfox employees understand how to build and examine their custom industry analytics dashboard.
+The [**Management App**]() ****docs help Musicfox employees understand how to build and examine their custom industry analytics dashboard.
 {% endhint %}
 
 {% hint style="info" %}
