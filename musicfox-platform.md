@@ -6,7 +6,7 @@ description: Musicfox's core product.
 
 ![](.gitbook/assets/logo-platform-default-black-copy.png)
 
-**check back for updates.** 
+**Check back for updates.** 
 
 \*\*\*\*
 

@@ -10,12 +10,8 @@ Getting VIP assistance at Musicfox, like a rockstar, is a fairly straight forwar
 
 #### We'll use info cards to point important things out:
 
-{% hint style="danger" %}
-[**Fan.Booster**](fan.booster.md) docs can help you understand your campaign, its features, and new ways to use **Fan.Booster** apps.
-{% endhint %}
-
-{% hint style="warning" %}
-The [**Management App**]() ****docs help Musicfox employees understand how to build and examine their custom industry analytics dashboard.
+{% hint style="success" %}
+[**B00ST**](b00st.md) docs can help you understand your campaign, its features, and new ways to use **B00ST** apps.
 {% endhint %}
 
 {% hint style="info" %}

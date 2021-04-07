@@ -1,6 +1,6 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Fan.Booster](fan.booster.md)
+* [B00ST](b00st.md)
 * [Musicfox Platform](musicfox-platform.md)
 
