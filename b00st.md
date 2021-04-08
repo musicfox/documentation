@@ -4,7 +4,7 @@ description: 'Online ads, simplified.'
 
 # B00ST
 
-![](.gitbook/assets/b00st-repo-image_main_kgr5qq.jpeg)
+![B00ST, infinitely.](.gitbook/assets/b00st-repo-image_main_kgr5qq.jpeg)
 
 ### Overview
 
