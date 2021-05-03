@@ -11,7 +11,7 @@ Getting VIP assistance at Musicfox, like a rockstar, is a fairly straight forwar
 #### We'll use info cards to point important things out:
 
 {% hint style="success" %}
-[**B00ST**](b00st.md) docs can help you understand your campaign, its features, and new ways to use **B00ST** apps.
+[**B00ST**](b00st/) docs can help you understand your campaign, its features, and new ways to use **B00ST** apps.
 {% endhint %}
 
 {% hint style="info" %}
