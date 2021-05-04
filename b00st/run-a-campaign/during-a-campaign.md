@@ -14,10 +14,10 @@ Once a campaign has started, you cannot make changes.
 If you need to make changes, the best way is to stop the campaign and start a new one. No worries, we'll credit your account the remaining campaign budget. 
 {% endhint %}
 
-**Below is a list of some of the most common campaign actions. To initiate please paraphrase what you're trying to get done via email to** [**team@b00st.com**](mailto:team@b00st.com)\*\*\*\*
+Below are some of the most common campaign actions. To initiate please paraphrase what you're trying to get done and email it to [team@b00st.com](mailto:team@b00st.com)
 
 {% hint style="success" %}
-Keep your 8-digit B00ST ID handy when you email [team@b00st.com](mailto:team@b00st.com).
+Keep your 8-digit B00ST ID handy when you email [team@b00st.com](mailto:team@b00st.com). You can find it on your daily report or your campaign confirmation email. 
 {% endhint %}
 
 **Account:** add or remove users. This is beneficial if you want your team to have viewing access to your campaign. Viewing access includes daily reports. 
@@ -33,10 +33,4 @@ Keep your 8-digit B00ST ID handy when you email [team@b00st.com](mailto:team@b00
 **Restart**: restart a paused campaign. 
 
 **Stop**: permanently stop your campaign. Think of this as the finish/conclude button. We recommend you you stop a campaign and create a new one if you need to make changes to a running campaign.   
-
- 
-
-## 
-
-
 
