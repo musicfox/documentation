@@ -2,6 +2,10 @@
 
 B00ST runs ads on behalf of artists across social channels to promote their brand and content. 
 
+![The B00ST process](../../.gitbook/assets/undraw_how-it-works-b00st-faq.svg)
+
+
+
 ## team@b00st.com 
 
 We use email as our main mode of communicating and executing things at B00ST. As a result, B00ST can be used by anyone anywhere. 
