@@ -14,7 +14,11 @@ Once a campaign has started, you cannot make changes.
 If you need to make changes, the best way is to stop the campaign and start a new one. No worries, we'll credit your account the remaining campaign budget. 
 {% endhint %}
 
-Below is a list of some of the most common campaign actions. To initiate please paraphrase what you're trying to get done via email to [team@b00st.com](mailto:team@b00st.com)
+**Below is a list of some of the most common campaign actions. To initiate please paraphrase what you're trying to get done via email to** [**team@b00st.com**](mailto:team@b00st.com)\*\*\*\*
+
+{% hint style="success" %}
+Keep your 8-digit B00ST ID handy when you email [team@b00st.com](mailto:team@b00st.com).
+{% endhint %}
 
 **Account:** add or remove users. This is beneficial if you want your team to have viewing access to your campaign. Viewing access includes daily reports. 
 
