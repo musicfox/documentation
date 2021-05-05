@@ -22,7 +22,7 @@ Keep your 8-digit B00ST ID handy when you email [team@b00st.com](mailto:team@b00
 
 **\(coming soon\) Account:** add or remove users. This is beneficial if you want your team to have viewing access to your campaign. Viewing access includes daily reports. 
 
-**Help**: if there is something wrong with your campaign, we suggest to pause your campaign immediately and investigate our [`how-to`](https://www.b00st.com/) docs or join our Slack channel. 
+**Help**: if there is something wrong with your campaign, we suggest to pause your campaign immediately and investigate our [`how-to`](https://www.b00st.com/) docs or join our [Slack channel](https://docs.musicfox.io/b00st/run-a-campaign/slack). 
 
 **Pause**: pause your campaign to put things on a temporary hold. 
 
