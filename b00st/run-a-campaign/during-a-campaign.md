@@ -20,9 +20,9 @@ Below are some of the most common campaign actions. To initiate please paraphras
 Keep your 8-digit B00ST ID handy when you email [team@b00st.com](mailto:team@b00st.com). You can find it on your daily report or your campaign confirmation email. 
 {% endhint %}
 
-**Account:** add or remove users. This is beneficial if you want your team to have viewing access to your campaign. Viewing access includes daily reports. 
+**\(coming soon\) Account:** add or remove users. This is beneficial if you want your team to have viewing access to your campaign. Viewing access includes daily reports. 
 
-**Help**: if you are stuck you can ask for for help. If there is something wrong with your campaign, we suggest you pause your campaign immediately and investigate our `how-to` docs for answers. 
+**Help**: if there is something wrong with your campaign, we suggest to pause your campaign immediately and investigate our [`how-to`](https://www.b00st.com/) docs or join our Slack channel. 
 
 **Pause**: pause your campaign to put things on a temporary hold. 
 

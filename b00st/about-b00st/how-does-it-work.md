@@ -18,5 +18,5 @@ Our team is assisted by top of the line robots and algos that make sure every ca
 
 ## Where are ads published?
 
-Ads are published on Instagram, Facebook, and Google/YouTube. **To enhance security for artists and simplify the process we run dark posts from our B00ST channels that promote artists content**. Artists don't have to give up access to their socials and only pay when fans click on their content and land on their properties. Win-win! 
+Ads are published on Instagram, Facebook, and Google/YouTube. **To enhance security for artists and simplify the process we run dark posts across our B00ST channels that promote artists content**. Artists don't have to give up access to their socials and only pay when fans click on their content and land on their properties. Win-win! 
 
