@@ -1,6 +1,6 @@
 # Start a new campaign
 
-To get started, just send an email to [team@b00st.com](mailto:team@b00st.com) and include something like “_start a new campaign_” in the message. It's that simple!
+To get started, just send an email to [team@b00st.com](mailto:team@b00st.com) and include something like “_start a new campaign_” in the message. Our software will take it from there and get your campaign started in no time. It's that simple!
 
 {% hint style="success" %}
 Pro tip: you can omit email subject lines.
