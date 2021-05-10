@@ -5,7 +5,7 @@ B00ST is an online promotion engine. It's the simplest and most powerful solutio
 ![](../../.gitbook/assets/powerful_tech_to_grow_your_fan_base.svg)
 
 {% hint style="success" %}
-B00ST makes online ads simple to deploy while using the most advanced technology under the hood to benefit artists. 
+B00ST makes online ads simple to deploy while using the most advanced technology to benefit artists. 
 {% endhint %}
 
 ## 
