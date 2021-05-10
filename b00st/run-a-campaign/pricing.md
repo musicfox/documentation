@@ -2,7 +2,9 @@
 
 ## How much does it cost?
 
-We charge a simple 10% usage fee of any ad spend above $50. Our payment partner Stripe charges an additional card processing fee. Invoices are due before campaign launch. 
+We charge a simple 10% usage fee of any ad spend above $100. For campaigns between $50-$99 we don't charge anything. 
+
+Our payment partner Stripe charges an additional card processing fee for all payments. Invoices are due before campaign launch. 
 
 {% hint style="info" %}
 If you are thinking about running a lot of campaigns for different artists on a regular basis, please give us a call.
@@ -10,5 +12,5 @@ If you are thinking about running a lot of campaigns for different artists on a 
 
 ## **What if I pause or stop a campaign?**
 
-Funds will be held in your account and can be credited towards the next campaign. We’re not able to process refunds**.**
+Funds will be held in your account and can be credited towards the next campaign. We’re not able to process refunds, however**.**
 

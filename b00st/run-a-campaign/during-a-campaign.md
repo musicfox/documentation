@@ -28,7 +28,7 @@ Keep your 8-digit B00ST ID handy when you email [team@b00st.com](mailto:team@b00
 
 **Pay**: to pay an invoice or receive details on past campaigns.
 
-**Report**: receive a reports for all campaigns running on your account. 
+**Report**: receive a basic report for all campaigns running on your account. More detailed reporting is in the works. 
 
 **Restart**: restart a paused campaign. 
 
