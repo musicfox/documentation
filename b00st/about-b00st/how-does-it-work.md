@@ -9,7 +9,7 @@ B00ST runs ads on behalf of artists across social channels to promote their bran
 Ads are published on Instagram, Facebook, Google, and YouTube. **To enhance security for artists and simplify the process we run dark posts from our B00ST channels that promote artists content**. Artists don't have to give up access to their socials and only pay when fans click on their content and land on their properties. Win-win! 
 
 {% hint style="info" %}
-B00ST works best when our software can start broad and narrow down what elements \(channels, budget, creative, detailed targeting, etc.\) lead to the best results for each campaign.
+Our software starts broad and narrows down the elements \(channels, budget, creative, detailed targeting, etc.\) that lead to the best results for each campaign.
 {% endhint %}
 
 ## What can be promoted?
