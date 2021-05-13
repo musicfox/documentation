@@ -2,7 +2,7 @@
 
 ## How much does it cost?
 
-We charge a simple 10% usage fee of any ad spend above $100. For campaigns between $50-$99 we don't charge anything. 
+The minimum campaign budget is $50. For campaigns between $50-$99 we don't charge anything. For campaigns above $100 we charge a simple 10% usage fee.
 
 Our payment partner Stripe charges an additional card processing fee for all payments. Invoices are due before campaign launch. 
 
