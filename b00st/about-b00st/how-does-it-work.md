@@ -2,7 +2,7 @@
 
 B00ST runs ads on behalf of artists across social channels to promote their brand and content. 
 
-![](../../.gitbook/assets/undraw_how-it-works-b00st-faq.svg)
+![](../../.gitbook/assets/undraw_how-it-works-b00st-faq_rv3ixj.svg)
 
 ## Where are ads published?
 
