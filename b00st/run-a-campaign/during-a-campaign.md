@@ -26,6 +26,16 @@ Keep your 8-digit B00ST campaign ID handy when you email [team@b00st.com](mailto
 
 **Report**: receive a basic report for all campaigns running on your account. We are working on more detailed reports \(coming soon\).
 
+{% hint style="info" %}
+**Reporting acronyms:** 
+
+CPC \(Cost per click\) = the price you pay when a fan clicks your ad
+
+Impressions = the number of people who potentially see your ad
+
+CTR \(Click-through rate\) = a ratio showing how often people who see your ad end up clicking it. CTR is calculated by dividing clicks by impressions
+{% endhint %}
+
 **Restart**: restart a paused campaign. 
 
 **Stop**: permanently stop your campaign. Think of this as the finish/conclude button. We recommend you stop a campaign and create a new one if you need to make changes to a running campaign.   
