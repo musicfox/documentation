@@ -60,7 +60,7 @@ The actual CTR calculation is number of clicks divided by impressions, so bear i
 
 #### `spend`
 
-**Total-spend** is the cumulative sum of your B00ST campaign thus far. Spend a buck yesterday two today? Spend should be $3. 
+**Total-spend** is the cumulative sum of your B00ST campaign thus far. Spend a buck yesterday and two bucks today? Spend should be $3. 
 
 > And who thought you weren't good at math? With B00ST you're now a mathletics ace 😎
 
