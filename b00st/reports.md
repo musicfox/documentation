@@ -20,15 +20,17 @@ Can't find your morning email? Don't want to search? Simply email your trusty te
 
 > _"I'd like a report for campaign &lt;insert-b00st-id-here&gt;"_
 
-in your email message. Then sit tight, your report is on its way. 
+in your email message. 
+
+⛱ Then sit tight, your report is on its way. 
 
 ## What are the metrics you're reporting? 
 
-We report on four main metrics: _cpc, cpm, ctr,_ and _total spend._ 
+We report on four main metrics: `cpc`_, `cpm`, `ctr`,_ and _total `spend`._ 
 
-### _B00ST report metrics:_
+### B00ST report metrics:
 
-#### cpc
+#### `cpc`
 
 **Cost-per-click** is the average amount of money it took for a click during your campaign. 
 
@@ -38,7 +40,7 @@ These can range anywhere from $.05 - $5, depending on the platform,  ad content,
 _But don't fret!_ -- _the B00ST team manages this for you!_ 
 {% endhint %}
 
-#### cpm
+#### `cpm`
 
 **Cost-per-impression** is the average amount of money it took for your ad to be served to 1000 👀 
 
@@ -46,13 +48,17 @@ _But don't fret!_ -- _the B00ST team manages this for you!_
 This is the _least_ reliable metric in digital advertising, though the _most_ homogeneous across ad-platforms.
 {% endhint %}
 
-#### ctr
+#### `ctr`
 
 **Click-through-rate** is the average percentage of clicks that went through to their destination. 
 
 This metric gives you \(and the B00ST algos\) an idea of how much interaction an ad, its content, and timing, is generating.
 
-#### spend
+{% hint style="warning" %}
+The actual CTR calculation is number of clicks divided by impressions, so bear in mind that this metric is also subject to reliability/reporting issues inherent in determining "what" constitutes an impression.
+{% endhint %}
+
+#### `spend`
 
 **Total-spend** is the cumulative sum of your B00ST campaign thus far. Spend a buck yesterday two today? Spend should be $3. 
 

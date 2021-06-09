@@ -27,7 +27,7 @@ Keep your 8-digit B00ST campaign ID handy when you email [team@b00st.com](mailto
 **Report**: receive a basic report for all campaigns running on your account. We are working on more detailed reports \(coming soon\).
 
 {% hint style="info" %}
-**Reporting acronyms:** 
+**Ad metric acronyms - See the B00ST** [**Reports**](../reports.md) **section for further details**
 
 CPC \(Cost per click\) = the price you pay when a fan clicks your ad
 
