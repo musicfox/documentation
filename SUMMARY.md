@@ -11,6 +11,7 @@
     * [Start a new campaign](b00st/run-a-campaign/start-a-new-campaign.md)
     * [During a campaign](b00st/run-a-campaign/during-a-campaign.md)
     * [Pricing](b00st/run-a-campaign/pricing.md)
+  * [Reports](b00st/reports.md)
   * [Slack](b00st/slack.md)
 * [Musicfox Platform](musicfox-platform.md)
 
