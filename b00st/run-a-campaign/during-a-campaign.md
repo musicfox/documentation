@@ -18,7 +18,7 @@ Keep your 8-digit B00ST campaign ID handy when you email [team@b00st.com](mailto
 
 **\(coming soon\) Account:** add or remove users. This is beneficial if you want your team to have viewing access to your campaign. Viewing access includes daily reports. 
 
-**Help**: if there is something wrong with your campaign, we suggest to pause your campaign immediately and investigate our [`how-to`](https://www.b00st.com/) docs or join our [Slack channel](../slack.md#http-b-00-st-com-slack). 
+**Help**: if there is something wrong with your campaign, we suggest to pause your campaign immediately and investigate our [`how-to`](https://www.b00st.com/) docs or join our [Discord Server](https://discord.com/invite/twpSQ9FtZ4). 
 
 **Pause**: pause your campaign to put things on a temporary hold. 
 
@@ -27,7 +27,7 @@ Keep your 8-digit B00ST campaign ID handy when you email [team@b00st.com](mailto
 **Report**: receive a basic report for all campaigns running on your account. We are working on more detailed reports \(coming soon\).
 
 {% hint style="info" %}
-**Reporting acronyms:** 
+**Ad metric acronyms - See the B00ST** [**Reports**](../reports.md) **section for further details**
 
 CPC \(Cost per click\) = the price you pay when a fan clicks your ad
 
