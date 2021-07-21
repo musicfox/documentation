@@ -6,7 +6,7 @@ B00ST runs ads on behalf of artists across social channels to promote their bran
 
 ## What can be promoted?
 
-B00ST can promote any target link or channel. For example, to grow YouTube enter a link to a video or YouTube channel. To grow Instagram enter an instagram profile. To grow Spotify link a destination on Spotify, and so forth. **From the info provided our software will devise the mathematically optimal way to promote your target destination.** 
+B00ST can promote any target link or channel. For example, to grow YouTube enter a link to a video or YouTube channel. To grow Instagram enter an instagram profile link. To grow Spotify enter a destination link on Spotify, and so forth. **From the info provided our software will devise the mathematically optimal way to promote your target destination.** 
 
 Advanced users can select a list of channels and content to focus on for every campaign by emailing [team@b00st.com](mailto:team@b00st.com?body=Start%20a%20new%20campaign.). B00ST takes it from there and runs ads geared for maximum results and lowest costs. 
 
