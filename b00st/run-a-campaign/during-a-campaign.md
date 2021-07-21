@@ -10,7 +10,7 @@ Our campaigns are tailored for maximal total results with minimal cost-per-resul
 Once a campaign has started, you cannot make changes. If something is wrong, the best way forward is to stop the campaign and start a new one. No worries, we'll credit your account with the remaining campaign budget, no questions asked. 
 {% endhint %}
 
-Below are some of the most common actions. To initiate any of them please paraphrase what you're trying to get done and email it to [team@b00st.com](mailto:team@b00st.com)
+**Below are some of the most common actions. To initiate any of them please paraphrase what you're trying to get done and email it to** [**team@b00st.com**](mailto:team@b00st.com)\*\*\*\*
 
 {% hint style="success" %}
 Keep your 8-digit B00ST campaign ID handy when you email [team@b00st.com](mailto:team@b00st.com). You can find it on your daily report or your campaign confirmation email. 
