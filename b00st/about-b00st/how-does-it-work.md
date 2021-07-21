@@ -22,3 +22,9 @@ Ads are published on Instagram, Facebook, Google, and YouTube. **To enhance secu
 Our software starts broad and narrows down the elements \(channels, budget, creative, detailed targeting, etc.\) that lead to the best results for each campaign.
 {% endhint %}
 
+## What does an example ad look like?
+
+Below is an example of an ad promoting our own software. B00ST uses the creative you provide alongside copy and call-to-action options created by AI, custom to your campaign.
+
+![](../../.gitbook/assets/ad-mock.png)
+
