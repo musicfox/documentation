@@ -1,4 +1,4 @@
-# How to use it?
+# How to get started?
 
 ### As simple as a button click: [b00st.com](https://b00st.com/)
 

@@ -1,4 +1,4 @@
-# How does it work?
+# What does it do?
 
 B00ST runs ads on behalf of artists across social channels to promote their brand and content. 
 

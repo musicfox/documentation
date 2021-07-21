@@ -1,4 +1,4 @@
-# Why B00ST?
+# How does it work?
 
 Geek alert 😁! **B00ST algos and software are geared to save artists money while achieving optimal return on investment \(= bang for your buck\)**. It starts with analyzing social channels for each artist, the industry, and that artist's peers, over time, to compose the initial ad buying recommendations. Deep inside this portion lies mathematical portfolio allocation and asset valuation software which makes data transformations and produces the ad allocation set.
 
