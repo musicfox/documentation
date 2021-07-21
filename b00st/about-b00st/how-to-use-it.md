@@ -2,7 +2,7 @@
 
 ## As simple as a button click: [b00st.com](https://b00st.com/)
 
-![](../../.gitbook/assets/how-it-works-b00st-easy-button%20%281%29.svg)
+![](../../.gitbook/assets/how-it-works-b00st-easy-button%20%282%29.svg)
 
 ## Advanced users: [team@b00st.com](mailto:team@b00st.com?body=Start%20a%20new%20campaign.) 
 
