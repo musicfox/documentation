@@ -1,6 +1,6 @@
 # How to use it?
 
-## As simple as a button click
+## As simple as a button click: [b00st.com](https://b00st.com/)
 
 ![](../../.gitbook/assets/how-it-works-b00st-easy-button%20%281%29.svg)
 
