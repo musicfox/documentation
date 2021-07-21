@@ -18,7 +18,7 @@ Keep your 8-digit B00ST campaign ID handy when you email [team@b00st.com](mailto
 
 **\(coming soon\) Account:** add or remove users. This is beneficial if you want your team to have viewing access to your campaign. Viewing access includes daily reports. 
 
-**Help**: if there is something wrong with your campaign, we suggest to pause your campaign immediately and investigate our [`how-to`](https://www.b00st.com/) docs or join our [Discord Server](https://discord.com/invite/twpSQ9FtZ4). 
+**Help**: if there is something wrong with your campaign, we suggest to pause your campaign immediately and investigate our [`how-to`](https://www.b00st.com/) docs or join our [Discord Community ](https://discord.com/invite/twpSQ9FtZ4). 
 
 **Pause**: pause your campaign to put things on a temporary hold. 
 

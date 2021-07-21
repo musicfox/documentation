@@ -1,6 +1,10 @@
 # How to use it?
 
-## team@b00st.com 
+## As simple as a button click
+
+![](../../.gitbook/assets/how-it-works-b00st-easy-button%20%281%29.svg)
+
+## Advanced users: team@b00st.com 
 
 We use email as our main mode of communicating and executing things at B00ST. As a result, B00ST can be used by anyone anywhere. 
 
@@ -8,5 +12,7 @@ We use email as our main mode of communicating and executing things at B00ST. As
 Our team is assisted by top of the line robots and algos that make sure every campaign detail is executed expertly with lightning speed. 
 {% endhint %}
 
-**If you want to start, stop, or pause a campaign, just email** [**team@b00st.com**](mailto:team@b00st.com) **with your intent in the email message.**  
+## **Start, Pause, Stop** 
+
+If you want to start, stop, or pause a campaign, just email [team@b00st.com](mailto:team@b00st.com) with your intent in the email message.  
 
