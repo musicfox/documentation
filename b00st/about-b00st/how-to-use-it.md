@@ -4,7 +4,7 @@
 
 ![](../../.gitbook/assets/how-it-works-b00st-easy-button%20%281%29.svg)
 
-## Advanced users: team@b00st.com 
+## Advanced users: [team@b00st.com](mailto:team@b00st.com?body=Start%20a%20new%20campaign.) 
 
 We use email as our main mode of communicating and executing things at B00ST. As a result, B00ST can be used by anyone anywhere. 
 
