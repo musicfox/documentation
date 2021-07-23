@@ -2,7 +2,7 @@
 
 To get started, sign in on [b00st.com](https://b00st.com/) and click the B00ST button on the homepage
 
-![](../../.gitbook/assets/boost-easy-button-shape-mask_150x150.gif)
+![](../../.gitbook/assets/boost-button-export-150x150.gif)
 
 Provide campaign details. 
 
