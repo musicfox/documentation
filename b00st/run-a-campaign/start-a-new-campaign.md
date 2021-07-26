@@ -16,11 +16,17 @@ Provide campaign details.
 
 ![](../../.gitbook/assets/b00st-easy-buttom-how-to-start-campaign_success-page%20%281%29.png)
 
-Advanced users, sign in [b00st.com](https://b00st.com/) and email [team@b00st.com](mailto:team@b00st.com?body=Start%20a%20new%20campaign.) with something like “_start a new campaign_” in the message. Our software will take it from there and get your campaign started in no time. It's that simple!
+### Advanced Users
+
+Advanced users can promote up to eight campaign targets simultaneously, draft their own copy \(not AI guided\), and select a start date in the future \(vs. as soon as possible for regular campaigns\).  
+
+{% hint style="info" %}
+This feature is ideal for seasoned digital marketers with sizable budget. 
+{% endhint %}
+
+Advanced users sign in [b00st.com](https://b00st.com/) and email [team@b00st.com](mailto:team@b00st.com?body=Start%20a%20new%20campaign.) with something like “_start a new campaign_” in the message. Our software will take it from there and get your campaign started in no time. It's that simple. 
 
 {% hint style="success" %}
 Pro tip: you can omit email subject lines.
 {% endhint %}
-
-During the set up process our software learns about the artist and objective and sets up A/B tests. 
 
