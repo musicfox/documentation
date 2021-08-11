@@ -1,5 +1,11 @@
 # How does it work?
 
+## Real fan, no bots 
+
+**B00ST ads target real fans**. Our tech detects and minimizes bots \(the web is full of them\) to deliver artists real eyeballs on their content.
+
+## The process, in detail
+
 Geek alert 😁! **B00ST algos and software are geared to save artists money while achieving optimal return on investment \(= bang for your buck\)**. It starts with analyzing social channels for each artist, the industry, and that artist's peers, over time, to compose the initial ad buying recommendations. Deep inside this portion lies mathematical portfolio allocation and asset valuation software which makes data transformations and produces the ad allocation set.
 
 ![](../../.gitbook/assets/allocating_budget_optimally_across_socials_pd5sx9.svg)
