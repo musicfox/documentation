@@ -1,8 +1,6 @@
-# Pricing
+# How much does it cost?
 
-## How much does it cost?
-
-The minimum B00ST campaign budget is $50. **For campaigns between $50-$100 we don't charge anything**. For campaigns above $100 we add a simple 10% usage fee. It's that simple. 
+The minimum B00ST campaign budget is $50. **For campaigns between $50-$100 we don't charge anything**. For campaigns above $100 we add a simple 10% usage fee. 
 
 {% hint style="warning" %}
 Our payment partner Stripe charges a card processing fee for all payments. Invoices are due before campaign launch. 
