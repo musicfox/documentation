@@ -10,6 +10,8 @@ description: Things to learn about B00ST.
 
 {% page-ref page="why-b00st.md" %}
 
+{% page-ref page="pricing.md" %}
+
 {% page-ref page="how-to-use-it.md" %}
 
   
