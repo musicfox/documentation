@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Overview](README.md)
-* [B00ST](b00st/README.md)
-  * [About B00ST](b00st/about-b00st/README.md)
+* [b00st.com](b00st/README.md)
+  * [About b00st.com](b00st/about-b00st/README.md)
     * [What is it?](b00st/about-b00st/what-is-it.md)
     * [What does it do?](b00st/about-b00st/how-does-it-work.md)
     * [How does it work?](b00st/about-b00st/why-b00st.md)

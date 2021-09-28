@@ -2,7 +2,7 @@
 description: 'Online ads, simplified.'
 ---
 
-# B00ST
+# b00st.com
 
 ![B00ST, infinitely.](../.gitbook/assets/b00st-repo-image_main_kgr5qq.jpeg)
 
