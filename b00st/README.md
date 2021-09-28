@@ -14,5 +14,5 @@ B00ST is the simplest and most powerful solution to promote your brand online. C
 
 {% page-ref page="run-a-campaign/" %}
 
-`Coding with B00ST APIs?` ****See our ****[**developer documentation.**](https://api.b00st.com)\*\*\*\*
+`Coding with B00ST APIs?` ****See our ****[**developer documentation.**](https://docs.b00st.com/)\*\*\*\*
 
