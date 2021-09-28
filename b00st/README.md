@@ -8,11 +8,11 @@ description: 'Online ads, simplified.'
 
 ### Overview
 
-B00ST is the simplest and most powerful solution to promote your brand online. Command your advertising success with confidence, for any budget with state of the art B00ST software.
+b00st.com is the simplest and most powerful solution to promote your brand online. Command your advertising success with confidence, for any budget with state of the art b00st.com software.
 
 {% page-ref page="about-b00st/" %}
 
 {% page-ref page="run-a-campaign/" %}
 
-`Coding with B00ST APIs?` ****See our ****[**developer documentation.**](https://docs.b00st.com/)\*\*\*\*
+`Coding with b00st.com APIs?` ****See our ****[**developer documentation.**](https://docs.b00st.com/)\*\*\*\*
 
