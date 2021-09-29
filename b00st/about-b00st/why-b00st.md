@@ -2,7 +2,7 @@
 
 ## Real fan, not bots 
 
-**B00ST ads target real fans**. Our tech detects and minimizes bots \(the web is full of them\) to deliver artists real eyeballs on their content.
+**B00ST ads target real fans** who make active decisions to perform an action, like opening Spotify and listening to an artist’s music. Our tech detects and minimizes bots \(the web is full of them\) to deliver artists real eyeballs on their content.
 
 ## The process, in detail
 
