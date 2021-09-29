@@ -8,9 +8,5 @@ description: Everything you need to run a successful campaign
 
 {% page-ref page="during-a-campaign.md" %}
 
-{% page-ref page="../about-b00st/pricing.md" %}
-
-
-
 
 
