@@ -21,8 +21,6 @@ b00st.com B00ST is a supercharged online promotion tool that artists and their t
 B00ST makes online ads simple while using the most advanced technology to benefit artists. 
 {% endhint %}
 
-{% page-ref page="what-is-it.md" %}
-
 
 ## What does it do?
 
@@ -53,7 +51,6 @@ Our software starts broad and narrows down the elements \(channels, budget, crea
 Below is an example of an ad promoting our own software. B00ST uses the creative you provide alongside copy and call-to-action options created by AI, custom to your campaign.
 
 ![](../../.gitbook/assets/ad-mock.png)
-{% page-ref page="what-does-it-do.md" %}
 
 ## How does it work?
 
@@ -87,7 +84,6 @@ After a campaign launches the software regularly updates all campaign elements. 
 
 ![](../../.gitbook/assets/updating_campaign_elements_in_real_time_erqrgq.svg)
 
-{% page-ref page="how-does-it-work.md" %}
 
 
 ## How much does it cost?
@@ -104,7 +100,6 @@ Our payment partner Stripe charges a card processing fee for all payments. Invoi
 If you pause or stop a campaign, funds will be held in your account and can be credited towards the next campaign. We’re not able to process refunds, however**.**
 {% endhint %}
 
-{% page-ref page="pricing.md" %}
 
 ## How to get started?
 
@@ -120,4 +115,3 @@ We use email as our main mode of communicating and executing things at B00ST. As
 Our team is assisted by top of the line robots and algos that make sure every campaign detail is executed expertly with lightning speed. 
 {% endhint %}
 
-{% page-ref page="how-to-use-it.md" %}
