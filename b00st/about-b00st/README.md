@@ -6,7 +6,7 @@ description: Things to know about b00st.com.
 
 Here are some quick links to frequently referenced questions about [b00st.com](https://b00st.com).
 
-- [What is b00st.com?](#what-is-it)
+- [What is b00st.com?](#what-is-b00st.com)
 - [What does b00st.com do?](#what-does-it-do)
 - [How does it all work?](#how-does-it-work)
 - [How much does b00st.com cost?](#how-much-does-it-cost)
