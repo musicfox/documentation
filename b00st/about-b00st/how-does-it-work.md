@@ -1,30 +1,34 @@
-# What does it do?
+# How does it work?
 
-B00ST runs ads on behalf of artists across social channels to promote their brand and content. 
+## Real fan, not bots 
 
-![](../../.gitbook/assets/undraw_how-it-works-b00st-faq_rv3ixj.svg)
+**B00ST ads target real fans** who make active decisions to perform an action, like opening Spotify and listening to an artist’s music. Our tech detects and minimizes bots \(the web is full of them\) to deliver artists real eyeballs on their content.
 
-## What can be promoted?
+## The process, in detail
 
-**B00ST is designed to promote any target link or channel**. For example, to grow YouTube enter a link to a video or YouTube channel. To grow Instagram enter an instagram profile link. To grow Spotify enter a link to a profile/song/album on Spotify, and so forth. **From the info provided our software will devise the mathematically optimal way to promote your target destination.** 
+Geek alert 😁! **B00ST algos and software are geared to save artists money while achieving optimal return on investment \(= bang for your buck\)**.
 
-Advanced users can select a list of channels and content to focus on for every campaign by emailing [team@b00st.com](mailto:team@b00st.com?body=Start%20a%20new%20campaign.). B00ST takes it from there and runs ads geared for maximum results and lowest costs. 
+### How does targeting work?
 
-{% hint style="success" %}
-B00ST removes uncertainty and maximizes results by updating campaign elements in real-time to save time and money.
-{% endhint %}
+It starts with analyzing social channels for each artist, the industry, and that artist's peers, over time, to compose the initial ad buying recommendations. B00ST draws from tons of different data sources such as music consumption, touring activity, and socials to accurately build high-value target groups for each artist.
 
-## Where are ads published?
+![](../../.gitbook/assets/targeting-the-right-audience.svg)
 
-Ads are published on Instagram, Facebook, Google, and YouTube. **To enhance security for artists and simplify the process we run dark posts from our B00ST channels that promote artists content**. Artists don't have to give up access to their socials and only pay when fans click on their content and land on their properties. Win-win! 
+### Where is the money spent?
 
-{% hint style="info" %}
-Our software starts broad and narrows down the elements \(channels, budget, creative, detailed targeting, etc.\) that lead to the best results for each campaign.
-{% endhint %}
+B00ST is plugged into Google, YouTube, Instagram, and Facebook - more platforms coming soon. Deep inside this portion lies mathematical portfolio allocation and asset valuation software, which makes data transformations and produces the ad allocation set. 
 
-## What does an example ad look like?
+![](../../.gitbook/assets/allocating_budget_optimally_across_socials_pd5sx9.svg)
 
-Below is an example of an ad promoting our own software. B00ST uses the creative you provide alongside copy and call-to-action options created by AI, custom to your campaign.
+### How does optimization work?
 
-![](../../.gitbook/assets/ad-mock.png)
+Once the initial allocations are fixed, we perform A/B testing via regression analysis to determine what demo, creative, and copy produces the optimal ROI per channel at the respective moment in time.
+
+![](../../.gitbook/assets/a_b_testing_to_get_the_best_results_iptjk2.svg)
+
+After a campaign launches the software regularly updates all campaign elements. We call this Dynamic Tactical Allocation, which helps produce optimal ad spends through time.
+
+![](../../.gitbook/assets/updating_campaign_elements_in_real_time_erqrgq.svg)
+
+
 
