@@ -2,13 +2,14 @@
 description: Things to know about b00st.com.
 ---
 
-# About b00st.com and B00ST
+# About b00st.com
 
-Keep scrolling 
-- [What b00st.com is all about](#what-is-it)
-- [What B00ST does](#what-does-it-do)
+Here are some quick links to frequently referenced questions about [b00st.com](https://b00st.com).
+
+- [What is b00st.com?](#what-is-it)
+- [What does b00st.com do?](#what-does-it-do)
 - [How does it all work?](#how-does-it-work)
-- [b00st.com pricing](#how-much-does-it-cost)
+- [How much does b00st.com cost?](#how-much-does-it-cost)
 - [How do I get started?](#how-to-get-started)
 
 ## What is b00st.com?
