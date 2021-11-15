@@ -5,7 +5,7 @@
   * [About b00st.com](b00st/about-b00st/README.md)
     * [What is it?](b00st/about-b00st/what-is-it.md)
     * [What does it do?](b00st/about-b00st/how-does-it-work.md)
-    * [How does it work?](b00st/about-b00st/why-b00st.md)
+    * [How does it work?](b00st/about-b00st/how-does-it-work-1.md)
     * [How much does it cost?](b00st/about-b00st/pricing.md)
     * [How to get started?](b00st/about-b00st/how-to-use-it.md)
   * [Run a campaign](b00st/run-a-campaign/README.md)
@@ -15,4 +15,3 @@
   * [Case Study](b00st/case-study.md)
   * [Discord](b00st/slack.md)
 * [Musicfox Platform](musicfox-platform.md)
-

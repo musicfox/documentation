@@ -4,13 +4,11 @@ description: Everything you need to run a successful campaign
 
 # Run a campaign
 
-{% page-ref page="start-a-new-campaign.md" %}
+{% content-ref url="start-a-new-campaign.md" %}
+[start-a-new-campaign.md](start-a-new-campaign.md)
+{% endcontent-ref %}
 
-{% page-ref page="during-a-campaign.md" %}
-
-{% page-ref page="../about-b00st/pricing.md" %}
-
-
-
-
+{% content-ref url="during-a-campaign.md" %}
+[during-a-campaign.md](during-a-campaign.md)
+{% endcontent-ref %}
 
