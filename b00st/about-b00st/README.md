@@ -32,8 +32,6 @@ B00ST runs ads on behalf of artists across social channels to promote their bran
 
 **B00ST is designed to promote any target link or channel**. For example, to grow YouTube enter a link to a video or YouTube channel. To grow Instagram enter an instagram profile link. To grow Spotify enter a link to a profile/song/album on Spotify, and so forth. **From the info provided our software will devise the mathematically optimal way to promote your target destination.**
 
-Advanced users can select a list of channels and content to focus on for every campaign by emailing [team@b00st.com](mailto:team@b00st.com?body=Start%20a%20new%20campaign.). B00ST takes it from there and runs ads geared for maximum results and lowest costs.
-
 {% hint style="success" %}
 B00ST removes uncertainty and maximizes results by updating campaign elements in real-time to save time and money.
 {% endhint %}
@@ -66,29 +64,29 @@ Geek alert 😁! **B00ST algos and software are geared to save artists money whi
 
 It starts with analyzing social channels for each artist, the industry, and that artist's peers, over time, to compose the initial ad buying recommendations. B00ST draws from tons of different data sources such as music consumption, touring activity, and socials to accurately build high-value target groups for each artist.
 
-{% file src="../../.gitbook/assets/targeting the right audience (1).png" %}
+![](<../../.gitbook/assets/targeting the right audience.png>)
 
 ### Where is the money spent?
 
 B00ST is plugged into Google, YouTube, Instagram, and Facebook - more platforms coming soon. Deep inside this portion lies mathematical portfolio allocation and asset valuation software, which makes data transformations and produces the ad allocation set.
 
-![](../../.gitbook/assets/allocating\_budget\_optimally\_across\_socials\_pd5sx9.svg)
+![](<../../.gitbook/assets/allocating budget optimally across socials.png>)
 
 ### How does optimization work?
 
 Once the initial allocations are fixed, we perform A/B testing via regression analysis to determine what demo, creative, and copy produces the optimal ROI per channel at the respective moment in time.
 
-![](../../.gitbook/assets/a\_b\_testing\_to\_get\_the\_best\_results\_iptjk2.svg)
+![](<../../.gitbook/assets/ab testing for FAQ.png>)
 
 After a campaign launches the software regularly updates all campaign elements. We call this Dynamic Tactical Allocation, which helps produce optimal ad spends through time.
 
-![](../../.gitbook/assets/updating\_campaign\_elements\_in\_real\_time\_erqrgq.svg)
+![](<../../.gitbook/assets/updating campaign elements in real time.png>)
 
 ## How much does it cost?
 
 The minimum B00ST campaign budget is $50. **For campaigns between $50-$100 we don't charge anything**. For campaigns above $100 we add a simple 10% usage fee.
 
-If you are thinking about running a lot of campaigns for different artists on a regular basis, please give us a call.
+If you are thinking about running a lot of campaigns for different artists on a regular basis, please give us a call or drop us an email.
 
 {% hint style="warning" %}
 Our payment partner Stripe charges a card processing fee for all payments. Invoices are due before campaign launch.
@@ -102,12 +100,8 @@ If you pause or stop a campaign, funds will be held in your account and can be c
 
 ### As simple as a button click: [b00st.com](https://b00st.com)
 
-![](<../../.gitbook/assets/how-it-works-b00st-easy-button (2).svg>)
-
-### Advanced users: [team@b00st.com](mailto:team@b00st.com?body=Start%20a%20new%20campaign.)
-
-We use email as our main mode of communicating and executing things at B00ST. As a result, B00ST can be used by anyone anywhere.
+![](../../.gitbook/assets/how-it-works-easy-button.png)
 
 {% hint style="success" %}
-Our team is assisted by top of the line robots and algos that make sure every campaign detail is executed expertly with lightning speed.
+Top of the line robots and algos + our team make sure every campaign detail is executed expertly with lightning speed.
 {% endhint %}
