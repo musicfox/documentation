@@ -14,7 +14,7 @@ Here are some quick links to frequently referenced questions about [b00st.com](h
 
 ## What is b00st.com?
 
-b00st.com B00ST is a supercharged online promotion tool that artists and their teams use to advertise online effectively, for a fraction of the cost.
+b00st.com is a supercharged online promotion tool that artists and their teams use to advertise online effectively, for a fraction of the cost.
 
 ![](../../.gitbook/assets/powerful\_tech\_to\_grow\_your\_fan\_base.png)
 
@@ -38,7 +38,7 @@ B00ST removes uncertainty and maximizes results by updating campaign elements in
 
 ### Where are ads published?
 
-Ads are published on Instagram, Facebook, Google, and YouTube. **To enhance security for artists and simplify the process we run dark posts from our B00ST channels that promote artists content**. Artists don't have to give up access to their socials and only pay when fans click on their content and land on their properties. Win-win!
+Ads are published on Instagram, Facebook, Google, and YouTube. **To enhance security for artists and simplify the process we run dark posts from our B00ST channels that promote artists' content**. Artists don't have to give up access to their socials and only pay when fans click on their content and land on their properties. Win-win!
 
 {% hint style="info" %}
 Our software starts broad and narrows down the elements (channels, budget, creative, detailed targeting, etc.) that lead to the best results for each campaign.
@@ -93,7 +93,7 @@ Our payment partner Stripe charges a card processing fee for all payments. Invoi
 {% endhint %}
 
 {% hint style="success" %}
-If you pause or stop a campaign, funds will be held in your account and can be credited towards the next campaign. We’re not able to process refunds, however\*\*.\*\*
+If you pause or stop a campaign, funds will be held in your account and can be credited towards the next campaign. We’re not able to process refunds, however.
 {% endhint %}
 
 ## How to get started?

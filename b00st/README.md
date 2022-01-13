@@ -8,7 +8,7 @@ coverY: 0
 
 ### Overview
 
-b00st.com is the simplest and most powerful solution to promote your brand online. Command your advertising success with confidence, for any budget with state of the art b00st.com software.
+[b00st.com](https://b00st.com) is the simplest and most powerful solution to promote your brand online. Command your advertising success with confidence, for any budget with state of the art b00st.com software.
 
 {% content-ref url="about-b00st/" %}
 [about-b00st](about-b00st/)

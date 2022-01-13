@@ -9,5 +9,5 @@ Our payment partner Stripe charges a card processing fee for all payments. Invoi
 {% endhint %}
 
 {% hint style="success" %}
-If you pause or stop a campaign, funds will be held in your account and can be credited towards the next campaign. We’re not able to process refunds, however**.**
+If you pause or stop a campaign, funds will be held in your account and can be credited towards the next campaign. We’re not able to process refunds, however.
 {% endhint %}

@@ -4,14 +4,12 @@ description: Everything you need to run a successful campaign
 
 # Run a campaign
 
-Start a new campaign
+Here's an overview of how to start a campaign and what happens during it.&#x20;
 
 * [Start a new campaign](./#start-a-new-campaign)
 * [During a campaign](./#during-a-campaign)
 
 ## Start a new campaign
-
-
 
 To get started, sign in on [b00st.com](https://b00st.com) and click the B00ST button on the homepage
 
