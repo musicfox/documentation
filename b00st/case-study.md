@@ -2,7 +2,7 @@
 description: A snapshot of a few past campaigns.
 ---
 
-# Case Study
+# Case Studies
 
 B00ST is geared to save money, targeting the right fans for the best possible cost per action.&#x20;
 
