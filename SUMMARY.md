@@ -14,4 +14,3 @@
   * [Reports](b00st/reports.md)
   * [Case Study](b00st/case-study.md)
   * [Discord](b00st/discord.md)
-* [Musicfox Platform](musicfox-platform.md)

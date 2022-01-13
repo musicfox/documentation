@@ -1,10 +1,10 @@
 ---
 description: Online ads, simplified.
+cover: ../.gitbook/assets/b00st-repo-image_main_slim.png
+coverY: 0
 ---
 
 # b00st.com
-
-![B00ST, infinitely.](../.gitbook/assets/b00st-repo-image\_main\_kgr5qq.jpeg)
 
 ### Overview
 
@@ -18,4 +18,4 @@ b00st.com is the simplest and most powerful solution to promote your brand onlin
 [run-a-campaign](run-a-campaign/)
 {% endcontent-ref %}
 
-`Coding with b00st.com APIs?`** **See our** **[**developer documentation.**](https://docs.b00st.com)****
+`Coding with b00st.com APIs?` **** See our **** [**developer documentation.**](https://docs.b00st.com)****

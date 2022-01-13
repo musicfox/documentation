@@ -26,7 +26,7 @@ in your email message.&#x20;
 
 ## What are the metrics you're reporting?&#x20;
 
-We report on four main metrics: `cpc`_, `cpm`, `ctr`, _and _total `spend`. _
+We report on four main metrics: `cpc`_, `cpm`, `ctr`,_ and _total `spend`._&#x20;
 
 ### B00ST report metrics:
 
@@ -60,7 +60,7 @@ The actual CTR calculation is number of clicks divided by impressions, so bear i
 
 #### `spend`
 
-**Total-spend **is the cumulative sum of your B00ST campaign thus far. Spend a buck yesterday and two bucks today? Spend should be $3.&#x20;
+**Total-spend** is the cumulative sum of your B00ST campaign thus far. Spend a buck yesterday and two bucks today? Spend should be $3.&#x20;
 
 > And who thought you weren't good at math? With B00ST you're now a mathletics ace :sunglasses:&#x20;
 
