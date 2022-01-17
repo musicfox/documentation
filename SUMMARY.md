@@ -14,3 +14,4 @@
   * [Reports](b00st/reports.md)
   * [Case Studies](b00st/case-study.md)
   * [Discord](b00st/discord.md)
+  * [Pro plan wire details](b00st/pro-plan-wire-details.md)
