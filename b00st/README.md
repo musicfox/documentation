@@ -15,7 +15,7 @@ Here are some helpful links to get started.
 * [About b00st.com](about-b00st/#real-fans-not-bots)
 * [Run a campaign](run-a-campaign/#start-a-new-campaign)
 * [Pricing](about-b00st/pricing.md)
-* Pro plan wire details
+* [Pro plan wire details](pro-plan-wire-details.md)
 * [Reports](reports.md#what-reports-do-i-get-with-b00st)
 * [Case Studies](case-study.md)
 * [Discord](discord.md)
