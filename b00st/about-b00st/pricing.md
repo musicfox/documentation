@@ -11,5 +11,7 @@ Visit our [Pricing page](https://b00st.com/#pricing) for more details.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
-Our payment partner Stripe charges a card processing fee for all payments. Invoices are due before campaign launch.&#x20;
+Our payment partner Stripe charges a card processing percentage and a small ($.30) fee for all payments. Invoices are due before campaign launch. \
+\
+:sparkles:**Pro plan** subscribers have the option of fee-free wires and ACH transfers.
 {% endhint %}
