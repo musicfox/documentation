@@ -1,8 +1,8 @@
 # How much does it cost?
 
-One campaign up-to $500 is free, every month.
+We charge a simple 10% fee of the ad budget.&#x20;
 
-Subsequent campaigns can be run with as little as $50 in ad spend, with a simple 10% fee.&#x20;
+Good news is that we waive our fee for one campaign up-to $500 in ad spend, every month, which means that you can effectively use our software for free.&#x20;
 
 If you are thinking about running a lot of campaigns for different artists on a regular basis, please check out our [pro tier](https://b00st.com/#pricing) or drop us an email.
 
