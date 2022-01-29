@@ -8,9 +8,9 @@ Here are some quick links to frequently referenced questions about [b00st.com](h
 
 * [What is b00st.com?](./#what-is-b00st.com)
 * [What does b00st.com do?](./#what-does-it-do)
-* [How does it all work?](./#how-does-it-work)
-* [How much does b00st.com cost?](./#how-much-does-it-cost)
-* [How do I get started?](./#how-to-get-started)
+* [How does it work?](./#how-does-it-work)
+* [How much does it cost?](./#how-much-does-it-cost)
+* [How to get started?](./#how-to-get-started)
 
 ## What is b00st.com?
 
@@ -84,16 +84,22 @@ After a campaign launches the software regularly updates all campaign elements. 
 
 ## How much does it cost?
 
-The minimum B00ST campaign budget is $50. **For campaigns between $50-$100 we don't charge anything**. For campaigns above $100 we add a simple 10% usage fee.
 
-If you are thinking about running a lot of campaigns for different artists on a regular basis, please give us a call or drop us an email.
 
-{% hint style="warning" %}
-Our payment partner Stripe charges a card processing fee for all payments. Invoices are due before campaign launch.
+We charge a simple 10% fee of the ad budget.&#x20;
+
+Good news is that we waive our fee for one campaign up-to $500 in ad spend, every month, which means that you can effectively use our software for free.&#x20;
+
+If you are thinking about running a lot of campaigns for different artists on a regular basis, please check out our [pro tier](https://b00st.com/#pricing) or drop us an email.
+
+{% hint style="info" %}
+Our payment partner Stripe charges a card processing percentage and a small ($.30) fee for all payments. Invoices are due before campaign launch. \
+\
+:sparkles:**Pro plan** subscribers have the option of fee-free wires and ACH transfers.
 {% endhint %}
 
 {% hint style="success" %}
-If you pause or stop a campaign, funds will be held in your account and can be credited towards the next campaign. We’re not able to process refunds, however.
+Visit our [Pricing page](https://b00st.com/#pricing) for more details.&#x20;
 {% endhint %}
 
 ## How to get started?
