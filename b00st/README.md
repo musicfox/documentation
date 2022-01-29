@@ -12,7 +12,7 @@ coverY: 0
 
 Here are some helpful links to get started.
 
-* [About b00st.com](about-b00st/#real-fans-not-bots)
+* [About b00st.com](about-b00st/#what-is-b00st.com)
 * [Run a campaign](run-a-campaign/#start-a-new-campaign)
 * [Pricing](about-b00st/pricing.md)
 * [Pro plan wire details](pro-plan-wire-details.md)
