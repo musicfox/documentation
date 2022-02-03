@@ -15,9 +15,9 @@ Here are some helpful links to get started.
 * [About b00st.com](about-b00st/#what-is-b00st.com)
 * [Run a campaign](run-a-campaign/#start-a-new-campaign)
 * [Pricing](about-b00st/pricing.md)
-* [Pro plan wire details](pro-plan-wire-details.md)
 * [Reports](reports.md#what-reports-do-i-get-with-b00st)
 * [Case Studies](case-study.md)
 * [Discord](discord.md)
+* [Pro plan wire details](pro-plan-wire-details.md)
 
 `Want to be coding with the APIs that power b00st.com?` **** See our **** associated **** [**developer platform, Bit Modulus.**](https://bitmodulus.com)****
