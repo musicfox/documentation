@@ -6,9 +6,15 @@ description: A snapshot of a few past campaigns.
 
 B00ST is geared to save money, targeting the right fans for the best possible cost per action.&#x20;
 
+**TikTok**
+
 ![](../.gitbook/assets/b00st.com\_Tommy\_Genesis\_TikTok.png)
 
+**Music Video**
+
 ![](../.gitbook/assets/b00st.com\_kenzie\_youtube.png)
+
+**Song Release**
 
 ![](../.gitbook/assets/b00st.com\_chillpill\_DSPs.png)
 

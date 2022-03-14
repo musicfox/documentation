@@ -1,7 +1,3 @@
----
-description: Musicfox documentation.
----
-
 # Overview
 
 Getting VIP assistance, like a rockstar, is a fairly straight forward process--just click the appropriate help link the the sidebar or navbar or join our [Discord Server](b00st/discord.md#http-b00st.com-discord).&#x20;
