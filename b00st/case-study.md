@@ -8,11 +8,11 @@ B00ST is geared to save money, targeting the right fans for the best possible co
 
 **TikTok**
 
-![Tommy Genesis garnered over 16K TikTok followers.](../.gitbook/assets/b00st.com\_Tommy\_Genesis\_TikTok\_mpdypw.png)
+![Downtown Records artist Tommy Genesis garnered over 16K TikTok followers.](../.gitbook/assets/b00st.com\_Tommy\_Genesis\_TikTok\_mpdypw.png)
 
 **Music Video**
 
-![Unkown Music artist Kenzie grew her YouTube by over 11K views.  ](../.gitbook/assets/b00st.com\_kenzie\_youtube\_yh2toc.png)
+![TikTok star Kenzie (Mackenzie Ziegler) is signed to Unknown Music who grew her YouTube by over 11K views.  ](../.gitbook/assets/b00st.com\_kenzie\_youtube\_yh2toc.png)
 
 **Song Release**
 
