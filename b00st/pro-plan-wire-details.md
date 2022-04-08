@@ -15,9 +15,9 @@ Please use the details below to send your wire and be sure to notify us of the t
 
 > :information\_source: Typically any wires initiated prior to 2PM EST will arrive same-business-day.
 
-### Sending US Dollars
+### Sending Funds Domestically
 
-| USD                  |                                                                   |
+| Details              |                                                                   |
 | -------------------- | ----------------------------------------------------------------- |
 | ABA / Routing number | 211370150                                                         |
 | Beneficiary bank     | Middlesex Federal Savings One College Avenue Somerville, MA 02144 |
@@ -27,7 +27,7 @@ Please use the details below to send your wire and be sure to notify us of the t
 
 ### International Wire Instructions
 
-| EUR                 |                                         |
+| Details             |                                         |
 | ------------------- | --------------------------------------- |
 | Institution         | Middlesex Federal Savings               |
 | Address             | One College Avenue Somerville, MA 02144 |
@@ -35,3 +35,7 @@ Please use the details below to send your wire and be sure to notify us of the t
 | Beneficiary         | Musicfox, Inc.                          |
 | Beneficiary account | 100435991                               |
 | Beneficiary address | 8 THE GREEN, STE #10182 DOVER, DE 19901 |
+
+{% hint style="danger" %}
+Please send USD, converted by your bank or financial institution on initiation of the wire transfer. If you have a specific need to pay in another currency, please reach out to your account manager.
+{% endhint %}
